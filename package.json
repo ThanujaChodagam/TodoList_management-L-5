@@ -1,0 +1,19 @@
+{
+  "name": "level-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.35.0",
+    "minimist": "^1.2.8",
+    "pg": "^8.9.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.29.0",
+    "sequelize-cli": "^6.6.0"
+  }
+}
